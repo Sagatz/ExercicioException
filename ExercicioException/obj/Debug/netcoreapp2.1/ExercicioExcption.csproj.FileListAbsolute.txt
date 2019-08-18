@@ -1,0 +1,11 @@
+C:\Users\Joao Guilherme\source\repos\ExercicioExcption\ExercicioExcption\bin\Debug\netcoreapp2.1\ExercicioExcption.deps.json
+C:\Users\Joao Guilherme\source\repos\ExercicioExcption\ExercicioExcption\bin\Debug\netcoreapp2.1\ExercicioExcption.runtimeconfig.json
+C:\Users\Joao Guilherme\source\repos\ExercicioExcption\ExercicioExcption\bin\Debug\netcoreapp2.1\ExercicioExcption.runtimeconfig.dev.json
+C:\Users\Joao Guilherme\source\repos\ExercicioExcption\ExercicioExcption\bin\Debug\netcoreapp2.1\ExercicioExcption.dll
+C:\Users\Joao Guilherme\source\repos\ExercicioExcption\ExercicioExcption\bin\Debug\netcoreapp2.1\ExercicioExcption.pdb
+C:\Users\Joao Guilherme\source\repos\ExercicioExcption\ExercicioExcption\obj\Debug\netcoreapp2.1\ExercicioExcption.csprojAssemblyReference.cache
+C:\Users\Joao Guilherme\source\repos\ExercicioExcption\ExercicioExcption\obj\Debug\netcoreapp2.1\ExercicioExcption.csproj.CoreCompileInputs.cache
+C:\Users\Joao Guilherme\source\repos\ExercicioExcption\ExercicioExcption\obj\Debug\netcoreapp2.1\ExercicioExcption.AssemblyInfoInputs.cache
+C:\Users\Joao Guilherme\source\repos\ExercicioExcption\ExercicioExcption\obj\Debug\netcoreapp2.1\ExercicioExcption.AssemblyInfo.cs
+C:\Users\Joao Guilherme\source\repos\ExercicioExcption\ExercicioExcption\obj\Debug\netcoreapp2.1\ExercicioExcption.dll
+C:\Users\Joao Guilherme\source\repos\ExercicioExcption\ExercicioExcption\obj\Debug\netcoreapp2.1\ExercicioExcption.pdb
